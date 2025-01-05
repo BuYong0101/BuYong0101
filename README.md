@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 * 정보처리산업기사
 
 ### 💻프로젝트
-* [PICKET](https://링크_여기에_넣기)(공연 예매 사이트)
-* [LesChef](https://github.com/BuYong0101/Les_chef_home)(레시피 공유 사이트)
+* [PICKET](https://링크_여기에_넣기) (공연 예매 사이트)
+* [Les-Chef](https://github.com/BuYong0101/Les_chef_home) (레시피 공유 사이트)
 
 ### 💻기술 스택
 <div> 
